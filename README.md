@@ -8,6 +8,13 @@ Si lo reconoce el sistema le pone un círculo con borde, de lo contrario
 lo pone relleno de color. Dependiendo de la persona, su imagen
 se irá agregando a una base de datos. 
 
+### Requisitos
+Instalar librerías para python:
+  OpenCV
+  Numpy
+  Os
+  Imutils
+
 ### Versiones utilizadas
 
 1. OpenCV: 4.40.42
