@@ -26,4 +26,5 @@ face_recognizer.train(facesData, np.array(labels))
 #Almacenando el modelo obtenido
 face_recognizer.write('modeloLBPHFace.xml')
 
-#Eso es todo muchas gracias
+#Eso es todo muchas gracias los amo
+
