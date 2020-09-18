@@ -17,3 +17,11 @@ for i in namesList:
         facesData.append(cv2.imread(namePath+"/"+j,0))
     
     label+=1
+
+face_recognizer = cv2.face.LBPHFaceRecognizer_create()
+
+print("Entrenando")
+face_recognizer.train(facesData, np.array(labels))
+
+#Almacenando el modelo obtenido
+face_recognizer.write('modeloLBPHFace.xml')
