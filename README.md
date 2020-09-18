@@ -10,10 +10,10 @@ se irá agregando a una base de datos.
 
 ### Requisitos
 Instalar librerías para python:
-  *OpenCV
-  *Numpy
-  *Os
-  *Imutils
+  * OpenCV
+  * Numpy
+  * Os
+  * Imutils
 
 ### Versiones utilizadas
 
