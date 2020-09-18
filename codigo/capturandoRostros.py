@@ -1,4 +1,4 @@
-import cv2
+import numpy
 from cv2 import cv2
 import os
 import imutils 
@@ -13,7 +13,8 @@ if not os.path.exists(personPath):
 
 cap = cv2.VideoCapture('VideoBernardo.mp4')
 
-faceClassif = cv2.CascadeClassifier(cv2.data.haarcascades +'haarcascade_frontalface_default.xml')
+faceClassif = cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_frontalface_default.xml')
+
 count =0
 
 while True:
