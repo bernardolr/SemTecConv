@@ -14,7 +14,7 @@ se irá agregando a una base de datos.
 2. Python: 3.8.6
 
 ### Link Imagenes
-
+https://drive.google.com/drive/folders/14nPEjgJRsYYfdTM8gVAtYC7oYUltWBfO?usp=sharing
 
 ### Referencias:
 -[Github referencia] (https://github.com/GabySol/OmesTutorials2020/tree/master/6%20RECONOCIMIENTO%20FACIAL)
