@@ -15,5 +15,5 @@ se irá agregando a una base de datos.
 
 
 ### Referencias:
-[Github referencia] (https://github.com/GabySol/OmesTutorials2020/tree/master/6%20RECONOCIMIENTO%20FACIAL)
-[Apoyo detección] (https://omes-va.com/reconocimiento-facial-python-opencv/)
++[Github referencia] (https://github.com/GabySol/OmesTutorials2020/tree/master/6%20RECONOCIMIENTO%20FACIAL)
++[Apoyo detección] (https://omes-va.com/reconocimiento-facial-python-opencv/)
